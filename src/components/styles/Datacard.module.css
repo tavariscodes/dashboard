@@ -1,0 +1,11 @@
+.datacard {
+    display: flex;
+    flex-direction: column;
+    height: 275px;
+    width: 200px;
+    background-color: rgb(220, 220, 220);
+}
+
+.cardtext {
+    padding: 5px;
+}

@@ -1,0 +1,22 @@
+.graph {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(220, 220, 220);
+
+}
+
+.innerContainer {
+    background-color: rgb(190, 190, 190);
+    width: 450px;
+    height: 200px;
+}
+
+.textArea { 
+    justify-self: flex-start;
+    align-self: flex-start;
+    margin: 5px;
+}
